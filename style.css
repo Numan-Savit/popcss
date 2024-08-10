@@ -8,11 +8,11 @@
 .border{
 
     width: 393px;
-    height: 710px;
+    height: 690px;
     border: 1px solid red;
     margin-top: 0%;
 
-    border: none;
+    /* border: none; */
     
 
 }
@@ -62,7 +62,7 @@ h5{
 
     /* width: 294.9px;
     height: 27.34px; */
-    margin-top: 20.22px;
+    margin-top: 10.22px;
     /* margin-left: 99.04px; */
     margin-bottom: 0%;
 }
