@@ -2,9 +2,9 @@
 .border{
 
     width: 393px;
-    height: 770px;
+    height: 730px;
     border: 2px solid red;
-    margin-top: 40px;
+    /* margin-top: 40px; */
     
 
 }
@@ -12,22 +12,25 @@
 .img{
 
     background-image: url('./image/b251cee746874164653ce9e15e25c918.jpeg');
-    width: 382.92px;
+     width: 382.92px;
     height: 612.01px;
-    margin-top: 20.22px;
-    margin-left: 5.04px;
+    margin-top: 12.22px; 
+    /* margin-left: 5.04px; */
     border-radius: 10.75px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    width: 100%;
+   
 }
 
 .tinder{
 
     width: 92.71px;
-    height: 22px;
+    height: 10px;
     /* margin-top: 40.78px; */
     margin-left: 150px;
+    display: flex;
 }
 
 h5{
