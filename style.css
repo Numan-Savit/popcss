@@ -1,18 +1,48 @@
+
 .border{
 
     width: 393px;
     height: 850px;
     border: 2px solid red;
+
 }
 
-.background{
+.img{
+
     background-image: url('./image/b251cee746874164653ce9e15e25c918.jpeg');
     width: 382.92px;
     height: 612.01px;
-    margin-top: 116.56px;
+    margin-top: 29.22px;
     margin-left: 5.04px;
+    border-radius: 10.75px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
 
+.tinder{
+
+    width: 92.71px;
+    height: 22px;
+    margin-top: 40.78px;
+    margin-left: 150px;
+}
+
+h5{
+
+    padding-top: 432.64px;
+    padding-left: 15.45px;
+    color: white;
+   
+    font-size: 30px;
+}
+
+
+
+.footer{
+
+    width: 294.9px;
+    height: 27.34px;
+    margin-top: 29.22px;
+    margin-left: 99.04px;
 }
