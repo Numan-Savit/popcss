@@ -1,10 +1,16 @@
+*{
 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
 .border{
 
     width: 393px;
-    height: 730px;
-    border: 2px solid red;
-    /* margin-top: 40px; */
+    height: 710px;
+    border: 1px solid red;
+    margin-top: 0%;
 
     border: none;
     
@@ -15,24 +21,26 @@
 
     background-image: url('./image/b251cee746874164653ce9e15e25c918.jpeg');
      width: 382.92px;
-    height: 612.01px;
-    margin-top: 12.22px; 
-    /* margin-left: 5.04px; */
+    height: 600.01px;
+    margin-top: 23.22px; 
+    margin-left: 3.04px;
     border-radius: 10.75px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    width: 100%;
+    /* width: 100%; */
    
 }
 
 .tinder{
 
     width: 92.71px;
-    height: 10px;
-    /* margin-top: 40.78px; */
+    height: 5px;
+    margin-top: 18.78px;
     margin-left: 150px;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 h5{
@@ -54,21 +62,32 @@ h5{
 
     /* width: 294.9px;
     height: 27.34px; */
-    margin-top: 29.22px;
+    margin-top: 20.22px;
     /* margin-left: 99.04px; */
     margin-bottom: 0%;
 }
 
 .icon{
 
-    width: 22.57px;
-    height: 26.87px; 
+    width: 35.57px;
+    height: 28.87px; 
 
     padding-right: 10px;
-    font-size: s;
+    font-size: 10px;
     
     
 }
+
+.ti{
+
+    width: 30.57px;
+    height: 26.87px; 
+    margin-left: 5px;
+
+
+}
+
+
 
 
 
