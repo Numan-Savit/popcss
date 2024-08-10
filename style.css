@@ -1,0 +1,18 @@
+.border{
+
+    width: 393px;
+    height: 850px;
+    border: 2px solid red;
+}
+
+.background{
+    background-image: url('./image/b251cee746874164653ce9e15e25c918.jpeg');
+    width: 382.92px;
+    height: 612.01px;
+    margin-top: 116.56px;
+    margin-left: 5.04px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
