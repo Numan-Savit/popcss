@@ -2,8 +2,10 @@
 .border{
 
     width: 393px;
-    height: 850px;
+    height: 770px;
     border: 2px solid red;
+    margin-top: 40px;
+    
 
 }
 
@@ -12,7 +14,7 @@
     background-image: url('./image/b251cee746874164653ce9e15e25c918.jpeg');
     width: 382.92px;
     height: 612.01px;
-    margin-top: 29.22px;
+    margin-top: 20.22px;
     margin-left: 5.04px;
     border-radius: 10.75px;
     background-repeat: no-repeat;
@@ -24,7 +26,7 @@
 
     width: 92.71px;
     height: 22px;
-    margin-top: 40.78px;
+    /* margin-top: 40.78px; */
     margin-left: 150px;
 }
 
@@ -45,4 +47,5 @@ h5{
     height: 27.34px;
     margin-top: 29.22px;
     margin-left: 99.04px;
+    margin-bottom: 0%;
 }
