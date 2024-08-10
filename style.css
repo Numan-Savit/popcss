@@ -48,9 +48,27 @@ h5{
 
 .footer{
 
-    width: 294.9px;
-    height: 27.34px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* width: 294.9px;
+    height: 27.34px; */
     margin-top: 29.22px;
-    margin-left: 99.04px;
+    /* margin-left: 99.04px; */
     margin-bottom: 0%;
 }
+
+.icon{
+
+    width: 22.57px;
+    height: 26.87px; 
+
+    padding-right: 10px;
+    font-size: s;
+    
+    
+}
+
+
+
