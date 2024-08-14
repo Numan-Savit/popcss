@@ -1,93 +1,83 @@
 *{
-
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
 }
 .border{
 
+    border: 2px solid red;
     width: 393px;
-    height: 695px;
-    border: 1px solid red;
-    margin-top: 0%;
+    height: 760px;
+}
 
-    /* border: none; */
-    
+.logo{
 
+    display: flex;
+    margin-top: 15px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  
+}
+
+h2{
+    font-size: 33px;
+    color: rgba(235, 84, 93, 1);
+
+}
+.tinder{
+
+    width: 30px;
+    height: 30px;
 }
 
 .img{
 
+
     background-image: url('./image/b251cee746874164653ce9e15e25c918.jpeg');
-     width: 382.92px;
-    height: 600.01px;
-    margin-top: 23.22px; 
-    margin-left: 5.04px;
-    border-radius: 10.75px;
+     width: 383px;
+    height: 611px;
+    border-radius: 10px;
+    margin-top: 20px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    /* width: 100%; */
-   
+    width: 100%; 
+  
 }
 
-.tinder{
+.icons{
 
-    width: 92.71px;
-    height: 5px;
-    margin-top: 18.78px;
-    margin-left: 150px;
+    margin-top: 29.56px;
+    margin-left: 49.4px;
     display: flex;
-    justify-content: center;
-    align-items: center;
-}
+    gap: 40px;
 
-h5{
-
-    padding-top: 432.64px;
-    padding-left: 15.45px;
-    color: white;
-   
-    font-size: 30px;
-}
-
-
-
-.footer{
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-    /* width: 294.9px;
-    height: 27.34px; */
-    margin-top: 10.22px;
-    /* margin-left: 99.04px; */
-    margin-bottom: 0%;
-}
-
-.icon{
-
-    width: 35.57px;
-    height: 28.87px; 
-
-    padding-right: 10px;
-    font-size: 10px;
-    
     
 }
 
-.ti{
+.ff_w_h{
 
-    width: 30.57px;
-    height: 26.87px; 
-    margin-left: 5px;
-
-
+    width: 22.57px;
+    height: 26.87px;
 }
+.ff_w_h2{
 
+    width: 27.21px;
+    height: 27.21px;
+}
+.ff_w_h3{
 
+    width: 22.84px;
+    height: 22.84px;
+}
+.ff_w_h4{
 
+    width: 30.09px;
+    height: 26.84px;
+}
+.ff_w_h5{
 
-
+    width: 19.46px;
+    height: 26.03px;
+}
